@@ -1,0 +1,15 @@
+{
+  "name": "oscillate",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "OSCILLATE — independent electronic broadcast. A concept study in single-saturated-accent (one hot/cold signal colour on warm near-black).",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5620"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
